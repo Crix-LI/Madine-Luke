@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Madine-Luke
+- 👀 I’m interested in Programming and Photographing
+- 🌱 I’m currently learning Kotlin
+- 📫 Reach me through my University e-mail, 21252548@life.hkbu.edu.hk
+- 😄 Pronouns: He/him
