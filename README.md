@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Madine-Luke
+- 👋 Hi, I’m @Crix LI
 - 👀 I’m interested in Programming and Photographing
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently learning Unreal Engine
 - 📫 Reach me through my University e-mail, 21252548@life.hkbu.edu.hk
 - 😄 Pronouns: He/him
