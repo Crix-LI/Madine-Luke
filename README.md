@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Crix LI
+- 👋 Hi, I’m @Kane LI
 - 👀 I’m interested in Programming and Photographing
 - 🌱 I’m currently learning Unreal Engine
 - 📫 Reach me through my University e-mail, 21252548@life.hkbu.edu.hk
